@@ -1,0 +1,9 @@
+[submodule "edison_install_ros"]
+	path = edison_install_ros
+	url = https://github.com/c-h-/edison_install_ros.git
+[submodule "android_core"]
+	path = android_core
+	url = https://github.com/c-h-/android_core.git
+[submodule "android_subscriber"]
+	path = android_subscriber
+	url = https://github.com/c-h-/android_subscriber.git
